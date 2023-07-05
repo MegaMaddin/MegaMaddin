@@ -9,7 +9,7 @@
 
 - 🩷 I've co-founded and developing [Mi & Ju - The Only Couples App You'll Need](https://www.miandju.app/)
 
-- 🧡 I'm currently creating [Visiya - Your Vision Board App](https://www.visiya.app/)
+- 🧡 I'm currently creating [VISIYA - Your Vision Board App](https://www.visiya.app/)
 
 - 👨‍💻 All of my projects are available [here](https://amazeing.net/portfolio.html)
 
