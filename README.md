@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A seasoned systems engineer and a mobile developer in spe</h3>
+# Hi 👋, I'm Martin
+### A seasoned systems engineer and a mobile developer in spe
 
 - 👩‍❤️‍👨 I'm doing fun stuff at our [family business](https://amazeing.net)
 
