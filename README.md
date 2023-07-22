@@ -11,7 +11,7 @@
 
 - 🧡 I'm currently creating [VISIYA - Your Vision Board App](https://www.visiya.app/)
 
-- 👨‍💻 All of my projects are available [here](https://amazeing.net/portfolio.html)
+- 👨‍💻 All of our projects are available [here](https://amazeing.net/portfolio.html)
 
 - 📝 I regularly write articles on [our blog](https://www.visiya.app/blog)
 
