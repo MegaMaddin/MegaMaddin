@@ -1,5 +1,5 @@
 # Hi 👋, I'm Martin
-### A seasoned systems engineer and a mobile developer in spe
+### A seasoned systems engineer and a mobile developer
 
 - 👩‍❤️‍👨 I'm doing fun stuff at our [family business](https://amazeing.net)
 
