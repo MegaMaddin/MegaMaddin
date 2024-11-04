@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the abyss called web development**
 
-- 💙 I’m currently working for [Bridebook - The #1 Wedding Planner](https://bridebook.com)
+- 🦝 I’m currently working for [Checkly - Detect and Resolve Issues 10x Faster](https://www.checklyhq.com/)
 
 - 🩷 I'm a co-founder and developer of [Mi & Ju - The Only Couples App You'll Need](https://www.miandju.app/)
 
