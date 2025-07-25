@@ -1,13 +1,9 @@
 # Hi 👋, I'm Martin
-### A seasoned systems engineer and a mobile developer
+### A seasoned systems and software engineer
 
 - 👩‍❤️‍👨 I'm doing fun stuff at our [family business](https://amazeing.net)
 
-- 🌱 I’m currently learning **the abyss called web development**
-
-- 🦝 I’m currently working for [Checkly - Detect and Resolve Issues 10x Faster](https://www.checklyhq.com/)
-
-- 🩷 I'm a co-founder and developer of [Mi & Ju - The Only Couples App You'll Need](https://www.miandju.app/)
+- 🦝 I’m currently contracting for [Checkly - Detect and Resolve Issues 10x Faster](https://www.checklyhq.com/)
 
 - 🧡 I'm currently creating [VISIYA - Your Vision Board App](https://www.visiya.app/)
 
